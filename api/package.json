@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@appear.sh/introspector": "0.0.3-canary.redwood.2",
+    "@appear.sh/introspector": "0.0.3-canary.redwood.3",
     "@codegenie/serverless-express": "^4.14.1",
-    "@redwoodjs/api": "7.7.1",
-    "@redwoodjs/graphql-server": "7.7.1",
+    "@redwoodjs/api": "^7.7.1",
+    "@redwoodjs/graphql-server": "^7.7.1",
     "@vercel/functions": "^1.0.2"
   }
 }
