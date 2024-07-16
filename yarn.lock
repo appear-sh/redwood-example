@@ -59,9 +59,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@appear.sh/introspector@npm:^0.0.5":
-  version: 0.0.5
-  resolution: "@appear.sh/introspector@npm:0.0.5"
+"@appear.sh/introspector@npm:^0.0.6":
+  version: 0.0.6
+  resolution: "@appear.sh/introspector@npm:0.0.6"
   dependencies:
     "@mswjs/interceptors": "npm:^0.30.0"
     "@vercel/functions": "npm:^1.0.2"
@@ -69,7 +69,7 @@ __metadata:
     fast-json-stable-stringify: "npm:^2.1.0"
     lodash: "npm:^4.17.21"
     xxhashjs: "npm:^0.2.2"
-  checksum: 10c0/1a3ff5617ea2c0ef56c86269054387e99213b2e68678e657b834ab6053ae218ea0d9f33963a39a7d3a03ed08caf432d210f4a493f8b20fe695e239cacfac45ae
+  checksum: 10c0/29e986846b897ca91caddf861c1234c58cdbe1d20fd2324278037389a1856a7ecf8769c6fc04d8bd3dcddc3d1e19805b7a3dfaf2f951dc77b87bdf1d3f67042c
   languageName: node
   linkType: hard
 
@@ -6937,7 +6937,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "api@workspace:api"
   dependencies:
-    "@appear.sh/introspector": "npm:^0.0.5"
+    "@appear.sh/introspector": "npm:^0.0.6"
     "@codegenie/serverless-express": "npm:^4.14.1"
     "@redwoodjs/api": "npm:^7.7.2"
     "@redwoodjs/graphql-server": "npm:^7.7.2"

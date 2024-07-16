@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@appear.sh/introspector": "^0.0.5",
+    "@appear.sh/introspector": "^0.0.6",
     "@codegenie/serverless-express": "^4.14.1",
     "@redwoodjs/api": "^7.7.2",
     "@redwoodjs/graphql-server": "^7.7.2",
